@@ -1,3 +1,8 @@
+<!-- Master Header Image -->
+<h1 align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1AqfvdMO_TLkr6LyBChxWV36hYGEssW-G" alt="Master Header Image" width="100%" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -18,7 +23,7 @@
 - 🔭 I’m currently working on **Edtech Project**
 - 🌱 I’m currently learning **Java, Java with DSA**
 - 📝 I regularly write articles on [SnapED Code Campus](https://www.instagram.com/snapedcodecampus/profilecard/?igsh=aWdxY2NjdmN0c2N1)
-- 💬 Ask me about **React.js, Express, Node.js, Firebase, MongoDB, MySQL, HTML5, CSS, JavaScript.**
+- 💬 Ask me about **React.js, Express, Node.js, Firebase, MongoDB, MySQL, HTML5, CSS, JavaScript**
 - 📫 How to reach me **danish786.aps@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1rNJUkpTEKmcYqQtB6RN7JxQ_rW1OwI25/view?usp=drivesdk)
 - ⚡ Fun fact: **"Java was inspired by coffee from the Indonesian island of Java, making it a 'brew-tiful' language!" ☕️**
@@ -26,16 +31,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mddanish4338" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="animation: bounce 2s infinite;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px; transition: transform 0.3s;" />
     </a>
     <a href="https://youtube.com/@snapedcodecampus" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" style="animation: bounce 2s infinite;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" style="margin-right: 10px; transition: transform 0.3s;" />
     </a>
     <a href="https://www.hackerrank.com/profile/danish786_aps" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="animation: bounce 2s infinite;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right: 10px; transition: transform 0.3s;" />
     </a>
     <a href="https://leetcode.com/u/mddanish164244/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="animation: bounce 2s infinite;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px; transition: transform 0.3s;" />
     </a>
 </p>
 
@@ -85,17 +90,17 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mddanish4338&show_icons=true&locale=en&layout=compact" alt="mddanish4338" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mddanish4338&show_icons=true&locale=en" alt="mddanish4338" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mddanish4338&" alt="mddanish4338" /></p>
+<table>
+  <tr>
+    <td>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mddanish4338&show_icons=true&locale=en&layout=compact" alt="mddanish4338" /></p>
+    </td>
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mddanish4338&show_icons=true&locale=en" alt="mddanish4338" /></p>
+    </td>
+  </tr>
+</table>
 
-<style>
-    @keyframes bounce {
-        0%, 100% {
-            transform: translateY(0);
-        }
-        50% {
-            transform: translateY(-10px);
-        }
-    }
-</style>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mddanish4338&" alt="mddanish4338" /></p>
+
+<p align="center">This README file was created with ❤️ by Danish</p>
